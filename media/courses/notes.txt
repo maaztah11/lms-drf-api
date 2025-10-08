@@ -1,0 +1,17 @@
+Box Model
+(Concept)
+
+CSS property
+Outline-style
+outline-width
+outline-offset
+outline (Shorthand)
+
+Text Properties
+Font awesome for icons
+anchor tags property
+list styles
+flexbox
+Positions
+Scrollbar
+Z-index -1
