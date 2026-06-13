@@ -1,0 +1,13 @@
+# Virtual Environment
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+
+# User Uploaded Files
+media/
